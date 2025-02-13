@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Django>=4.2
 pytest>=7.4
+=======
+Django>=4.2
+pytest>=7.4
+>>>>>>> fe9963a (Initial commit - Added project files)
 pytest-django>=4.5
